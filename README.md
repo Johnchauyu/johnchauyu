@@ -4,20 +4,13 @@
     <col span="1" style="width: 15%;">
     <col span="1" style="width: 70%;">
 </colgroup>
-<tr>
-  <td style="vertical-align: top">
-    <img src="https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif" width="45%" height="45%"/>
-  </td>
 
-  <td >
-
-  An undergraduate computer science student
-
-  Passionate about cybersecurity, especially about offensive security
-
-  And I love Shiba Inu
-  </td>
-</tr>
+<tbody>
+    <tr>
+        <td> <img src="https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif" width="45%" height="45%"/> </td>
+        <td> test</td>
+    </tr>
+</tbody>
 </table>
 
 
