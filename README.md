@@ -1,5 +1,5 @@
 ### Hi there 👋
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif))
+![](https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif)
 
 <!--
 **Johnchauyu/johnchauyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
