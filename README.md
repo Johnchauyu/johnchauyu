@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif)" width="100"/>
-</div>
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif))
 
 <!--
 **Johnchauyu/johnchauyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
