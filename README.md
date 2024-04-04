@@ -1,14 +1,14 @@
 ## **Hello**
 <table style="border:none"; style="width:100%">
 <colgroup>
+    <col span="1" style="width: 30%;">
     <col span="1" style="width: 70%;">
-    <col span="1" style="width: 15%;">
 </colgroup>
 
 <tbody>
     <tr>
         <td> <img src="https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif" width="45%" height="45%"/> </td>
-        <td> testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</td>
+        <td> testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</td>
     </tr>
 </tbody>
 </table>
