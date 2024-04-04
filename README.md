@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif)
+![](https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif =250x250)
 
 <!--
 **Johnchauyu/johnchauyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
