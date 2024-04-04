@@ -1,13 +1,12 @@
 ## **Hello**
-<table style="border:none">
+<table style="border:none"; style="width:100%">
 <tr>
-  <td style="vertical-align: top">
+  <td style="vertical-align: top"; style="widdth:50%">
     <img src="https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif" width="45%" height="45%"/>
   </td>
-  <td>
+
   </td>
-  </td>
-  <td>
+  <td style="widdth:50%">
 
   An undergraduate computer science student
 
