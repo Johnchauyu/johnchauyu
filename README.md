@@ -1,10 +1,20 @@
 ## **Hello**
 <img align="left" width="350" height="350" src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
-:school_satchel:  I'm an undergraduate computer science student
-  
-45654
 
-654565
+  
+<table style="border:none">
+<tr>
+  <td style="vertical-align: top">
+    <img align="left" width="350" height="350" src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
+  </td>
+  <td>
+  </td>
+  <td>
+
+:school_satchel:  I'm an undergraduate computer science student
+  </td>
+</tr>
+</table>
 
 <!--
 **Johnchauyu/johnchauyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
