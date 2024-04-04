@@ -8,9 +8,9 @@
   
   <td>
     🎒  I'm an undergraduate computer science student
-    <br>
+    <br />
     💻  Passionate about cybersecurity, especially about offensive security
-    <br>
+    <br />
     
 
   </td>
