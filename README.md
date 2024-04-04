@@ -7,7 +7,12 @@
   </td>
   
   <td>
-    :school_satchel:  I'm an undergraduate computer science student
+    🎒  I'm an undergraduate computer science student
+    <br>
+    💻  Passionate about cybersecurity, especially about offensive security
+    <br>
+    
+
   </td>
 </tr>
 </table>
