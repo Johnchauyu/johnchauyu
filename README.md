@@ -1,8 +1,8 @@
 ## **Hello**
 <table style="border:none"; style="width:100%">
 <colgroup>
-    <col span="1" style="width: 15%;">
     <col span="1" style="width: 70%;">
+    <col span="1" style="width: 15%;">
 </colgroup>
 
 <tbody>
