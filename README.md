@@ -1,8 +1,8 @@
 ## **Hello**
 <img align="left" width="350" height="350" src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
-  123123
+:school_satchel:  I'm an undergraduate computer science student
   
-  45654
+45654
 
 654565
 
