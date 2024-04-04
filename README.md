@@ -1,5 +1,19 @@
-### Hi there 👋
-<img src="https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif" width="45%" height="45%"/>
+## **Hello**
+<table style="border:none">
+<tr>
+  <td style="vertical-align: top">
+    <img src="https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif" width="45%" height="45%"/>
+  </td>
+  <td>
+
+  An undergraduate computer science student
+
+  Passionate about cybersecurity, especially about offensive security
+
+  And I love Shiba Inu
+  </td>
+</tr>
+</table>
 
 
 <!--
