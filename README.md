@@ -1,5 +1,5 @@
 ## **Hello**
-<img src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
+<img align="left" src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
 
 <!--
 **Johnchauyu/johnchauyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
