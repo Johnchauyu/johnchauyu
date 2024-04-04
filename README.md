@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif" width="250" height="250"/>
+<img src="https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif" width="50%" height="50%"/>
 
 
 <!--
