@@ -1,11 +1,14 @@
 ## **Hello**
 <table style="border:none"; style="width:100%">
+<colgroup>
+    <col span="1" style="width: 15%;">
+    <col span="1" style="width: 70%;">
+</colgroup>
 <tr>
   <td style="vertical-align: top">
     <img src="https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif" width="45%" height="45%"/>
   </td>
 
-  </td>
   <td >
 
   An undergraduate computer science student
