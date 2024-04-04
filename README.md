@@ -7,8 +7,8 @@
   </td>
   
   <td>
-    🎒  I'm an undergraduate computer science student <br>
-    💻  Passionate about cybersecurity, especially about offensive security <br>
+    🎒  I'm an undergraduate computer science student 
+    💻  Passionate about cybersecurity, especially about offensive security 
   </td>
 </tr>
 </table>
