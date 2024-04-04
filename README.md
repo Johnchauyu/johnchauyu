@@ -5,6 +5,9 @@
     <img src="https://github.com/Johnchauyu/johnchauyu/blob/main/CuteShiba.gif" width="45%" height="45%"/>
   </td>
   <td>
+  </td>
+  </td>
+  <td>
 
   An undergraduate computer science student
 
