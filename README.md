@@ -7,7 +7,7 @@
 
 <tbody>
     <tr>
-        <td> <img src= width="45%" height="45%"/> </td>
+        <td> <img src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/> </td>
         <td> testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</td>
     </tr>
 </tbody>
