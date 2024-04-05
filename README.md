@@ -1,13 +1,13 @@
 ## **Hello! I'm Ryan**
   
-<img align="right" width="350" height="300" src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
+<img align="right" width="300" height="300" src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; I’m an undergraduate computer science student in Hong Kong 🇭🇰
 - 💻 &nbsp; Passionate about cybersecurity, especially about offensive security
 - 🌱 &nbsp; Currently learning different penetration skills
-- 🐶 &nbsp; Shiba Inu is very cute.
+- 🐶 &nbsp; Shiba Inu is VERY cute.
 <!--
 **Johnchauyu/johnchauyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
