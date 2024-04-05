@@ -1,18 +1,13 @@
 ## **Hello**
   
-<table style="border:none">
-<tr>
-  <td style="vertical-align: top">
-    <img align="left" width="350" height="350" src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
-  </td>
-  
-  <td>
-    🎒  I'm an undergraduate computer science student 
-    💻  Passionate about cybersecurity, especially about offensive security 
-  </td>
-</tr>
-</table>
+<img align="left" width="350" height="350" src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
 
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🎓 &nbsp; I’m an undergraduate computer science student in Hong Kong🇭🇰
+- 💻 &nbsp; Passionate about cybersecurity, especially about offensive security
+- 🌱 &nbsp; Currently learning different penetration skills and exploring the world of cybersecurity
+- 🐶 &nbsp; Shiba Inu is very cute.
 <!--
 **Johnchauyu/johnchauyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
