@@ -5,7 +5,7 @@
 - 🎓 &nbsp; I’m an undergraduate computer science student in Hong Kong 🇭🇰
 - 💻 &nbsp; Passionate about cybersecurity, especially offensive security
 - 🌱 &nbsp; Currently learning different penetration skills
-- 🐶 &nbsp; Shiba Inu is VERY cute.
+- 🐶 &nbsp; I LOVE Shiba Inu and they are VERY cute.
 <!--
 **Johnchauyu/johnchauyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
