@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; I’m an undergraduate computer science student in Hong Kong🇭🇰
+- 🎓 &nbsp; I’m an undergraduate computer science student in Hong Kong 🇭🇰
 - 💻 &nbsp; Passionate about cybersecurity, especially about offensive security
-- 🌱 &nbsp; Currently learning different penetration skills and exploring the world of cybersecurity
+- 🌱 &nbsp; Currently learning different penetration skills
 - 🐶 &nbsp; Shiba Inu is very cute.
 <!--
 **Johnchauyu/johnchauyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
