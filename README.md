@@ -1,6 +1,6 @@
 ## **Hello! I'm Ryan**
   
-<img align="right" width="350" height="350" src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
+<img align="right" width="350" height="300" src="https://github.com/Johnchauyu/johnchauyu/blob/main/Shiba.gif" width="45%" height="45%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
